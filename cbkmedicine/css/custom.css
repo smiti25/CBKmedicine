@@ -1,0 +1,10 @@
+body {
+    background: rgba(0, 0, 0, 0) url("../images/bg.jpg") no-repeat fixed center top !important;
+}
+.m_top_10 {
+    margin-top: 10px;
+}
+.page_content_offset {min-height: 480px;}
+.product_item {max-width: 260px;}
+h5 {font-size: 1.0em;}
+.product_item .photoframe{min-height: 378px;}
