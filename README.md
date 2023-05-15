@@ -7,6 +7,9 @@ In this project user can view the medicines online and give the orders any time.
 Admin can add the products and view the order list. The organization can maintain computerized records without redundant entries. 
 That means that one need not be distracted by information: that is not relevant, while being able to reach the information Basically, 
 the project describes how to manage for good performance and better services for the clients.
+
+
+
 Project Modules :-
 	Admin Modules =>
 1.	Admin Login -Using user name and password admin can login to this project.
