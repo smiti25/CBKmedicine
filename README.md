@@ -24,21 +24,23 @@ Project Modules :-
 5.	View Offers - In this module user can view the offers. 
 
 
-Steps to execute the project:
-
+Steps to execute this project:
 1.Install XAMPP v3.2.2 
 
-2.Set up the XAMPP and fallow the procedures.
+2.Set up the XAMPP and follow the procedures.
 
-3.Under the XAMPP floder in htdocs folder paste the source code folder.
+3.Go to C drive, then to xammp folder, then to htdocs folder, and paste your source code there (C:\xampp\htdocs).
 
-4.Now, open XAMPP and start Apache and MySQL server.
+4.Now launch the XAMPP control panel and start the Apache and MySQL servers.
 
-5.Minimize the XAMPP, Go to browser.
+5.Now close the xampp control panel and launch any browser.
 
-6.In browser type phpmyadmin/
+6.Enter phpMyAdmin into your browser's address bar.
 
-7.Create a Database then import MySQL file.
+7.Make a database called cbkdiseaseprediction and import both sql files into it.
 
-8.In a new tab type http://localhost/cbkmedicine/ .
+8.To launch the project, open a new browser tab and type localhost/cbkdiseaseprediction.
+
+
+Note : The admin username is admin, and the password is admin.
  
