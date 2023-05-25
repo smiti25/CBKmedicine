@@ -9,6 +9,7 @@ That means that one need not be distracted by information: that is not relevant,
 the project describes how to manage for good performance and better services for the clients.
 
 Project Modules :-
+
 	Admin Modules =>
 1.	Admin Login -Using user name and password admin can login to this project.
 2.	Manage Categories - Admin can manage the categories.
