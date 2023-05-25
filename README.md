@@ -25,6 +25,7 @@ Project Modules :-
 
 
 Steps to execute the project:
+
 1.Install XAMPP v3.2.2 
 2.Set up the XAMPP and fallow the procedures.
 3.Under the XAMPP floder in htdocs folder paste the source code folder.
