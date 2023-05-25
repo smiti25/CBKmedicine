@@ -27,11 +27,18 @@ Project Modules :-
 Steps to execute the project:
 
 1.Install XAMPP v3.2.2 
+
 2.Set up the XAMPP and fallow the procedures.
+
 3.Under the XAMPP floder in htdocs folder paste the source code folder.
+
 4.Now, open XAMPP and start Apache and MySQL server.
+
 5.Minimize the XAMPP, Go to browser.
+
 6.In browser type phpmyadmin/
+
 7.Create a Database then import MySQL file.
+
 8.In a new tab type http://localhost/cbkmedicine/ .
  
